@@ -4,7 +4,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-👋 Olá, me chamo Ellis e sou apaixonada por tecnologia! Estou cursando Tecnologia da Informação na Univesp, e possuo experiência em criação/edição de páginas web (HTML, CSS, JavaScript, WordPress, Elementor, Figma) e design gráfico (Photoshop e Illustrator) 🖥️✨. No momento, estou cursando um Bootcamp focado em Lógica de Programação em paralelo com a faculdade.
+👋 Olá, me chamo Ellis e sou apaixonada por tecnologia! Estou cursando Tecnologia da Informação na Univesp, e possuo experiência em criação/edição de páginas web (HTML, CSS, JavaScript, WordPress, Elementor, Figma) e design gráfico (Photoshop e Illustrator) 🖥️✨. Em paralelo com a faculdade, busco oportunidades de aprendizado, participando ativamente de cursos e bootcamps que enriquecem meu conjunto de habilidades.
 
 
 ## 🔗 Conecte-se Comigo
