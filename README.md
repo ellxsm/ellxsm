@@ -75,7 +75,6 @@
 <p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Vai, Palmeiras! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Além disso, assistir filmes e séries.</p>
 
 <br>
-###
 
 <h2 align="left">📫 Vamos Conversar?</h2>
 
