@@ -60,6 +60,12 @@
 
 ###
 
+<h2 align="left">📌 Soft Skills</h2>
+
+###
+
+<p align="left">Como desenvolvedora em início de carreira, destaco minhas soft skills, que incluem <b>comunicação eficaz</b> para interagir com diferentes públicos, <b>adaptabilidade</b> para enfrentar novos desafios e <b>criatividade</b> na solução de problemas. Valorizo o <b>trabalho em equipe</b> e a <b>cooperação</b></p>
+
 <h2 align="left">🌐 Quem eu sou fora do código?</h2>
 
 ###
