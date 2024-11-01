@@ -7,6 +7,7 @@
 ###
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novas oportunidades de aprendizado, participando de cursos e bootcamps para me aprimorar. Vejo cada projeto como uma chance de expandir meu conhecimento em tecnologia e de me conhecer melhor a cada passo.</p>
+<br>
 
 ###
 
@@ -64,7 +65,8 @@
 
 ###
 
-<p align="left">Como desenvolvedora em início de carreira, destaco minhas soft skills, que incluem <b>comunicação eficaz</b> para interagir com diferentes públicos, <b>adaptabilidade</b> para enfrentar novos desafios e <b>criatividade</b> na solução de problemas. Valorizo o <b>trabalho em equipe</b> e a <b>cooperação</b></p>
+<p align="left">Como desenvolvedora em início de carreira, destaco minhas soft skills, que incluem <b>comunicação eficaz</b> para interagir com diferentes públicos, <b>adaptabilidade</b> para enfrentar novos desafios e <b>criatividade</b> na solução de problemas. Valorizo o <b>trabalho em equipe</b> e a <b>cooperação</b>.</p>
+<br>
 
 <h2 align="left">🌐 Quem eu sou fora do código?</h2>
 
