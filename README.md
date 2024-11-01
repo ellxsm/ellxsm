@@ -72,7 +72,7 @@
 
 ###
 
-<p align="left">- LinkedIn: https://www.linkedin.com/in/ellisoliveira/<br>- GitHub: https://github.com/ellxsm<br>- Email: ellis.oliveirab@gmail.com</p>
+<p align="left">- <b>LinkedIn:</b> https://www.linkedin.com/in/ellisoliveira/<br>- <b>E-mail:</b> ellis.oliveirab@gmail.com</p>
 
 ###
 
@@ -82,9 +82,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ellxsm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellxsm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ellxsm/ellxsm/output/snake.svg" alt="Snake animation" />
 
 ###
