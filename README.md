@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Hard Skills</h2>
+<h2 align="left">💻 Hard Skills</h2>
 
 ###
 
