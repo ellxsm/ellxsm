@@ -77,11 +77,3 @@
 <p align="left">- <b>LinkedIn:</b> https://www.linkedin.com/in/ellisoliveira/<br>- <b>E-mail:</b> ellis.oliveirab@gmail.com</p>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ellxsm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="130" alt="languages graph"  />
-</div>
-
-###
