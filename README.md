@@ -65,7 +65,7 @@
 
 ###
 
-<p align="left">Tenho uma **boa comunicação**, que me ajuda a entender e me fazer entender. Sou adaptável, o que me permite lidar bem com novos desafios, e utilizo minha criatividade para encontrar soluções. Valorizo o trabalho em equipe e a cooperação, sempre buscando colaborar para alcançar resultados positivos juntos. 🤗</p>
+<p align="left">Tenho uma boa comunicação, que me ajuda a entender e me fazer entender. Sou adaptável, o que me permite lidar bem com novos desafios, e utilizo minha criatividade para encontrar soluções. Valorizo o trabalho em equipe e a cooperação, sempre buscando colaborar para alcançar resultados positivos juntos. 🤗</p>
 <br>
 
 <h2 align="left">🌐 Quem eu sou fora do código?</h2>
