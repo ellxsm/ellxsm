@@ -1,6 +1,6 @@
 <h1 align="left">💫 Olá, sou a Ellis!</h1>
 
-###
+### 
 
 <h3 align="left">Bem vindo ao meu perfil GitHub 👋</h3>
 
@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Vai, Palmeiras! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Além disso, assistir filmes e séries.</p>
+<p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Avanti, Palestra! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Fora isso, curto assistir filmes e séries.</p>
 
 <br>
 
