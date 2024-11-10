@@ -25,9 +25,7 @@
 - Mais HTML e CSS (Formulários, Outros seletores, etc.);
 - JavaScript Básico;
 - Produção (Hospedagem, Servidor, etc.);
-
 <br><br>
-###
 
 <h2 align="left">💻 Hard Skills</h2>
 
