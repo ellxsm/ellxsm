@@ -19,7 +19,7 @@
 - Ferramentas;
 - Mais HTML e CSS (Formulários, Outros seletores, etc.);
 - JavaScript Básico;
-- Produção (Hospedagem, Servidor, etc.);<br>
+- Produção (Hospedagem, Servidor, etc.);<br><br>
 
 <h2 align="left">💻 Hard Skills</h2>
 <div align="left">
