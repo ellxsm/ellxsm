@@ -16,6 +16,16 @@
 - Projeto de Extensão;
 
 **Curso:** HTML e CSS para Iniciante - Origamid;
+- HTML e CSS Básico;
+- CSS Posicionamento;
+- HTML e Semântica;
+- CSS Propriedades;
+- Responsivo;
+- Ferramentas;
+- Mais HTML e CSS (Formulários, Outros seletores, etc.);
+- JavaScript Básico;
+- Produção (Hospedagem, Servidor, etc.);
+
 <br><br>
 ###
 
