@@ -9,14 +9,14 @@
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novas oportunidades de aprendizado, participando de cursos e bootcamps para me aprimorar. Vejo cada projeto como uma chance de expandir meu conhecimento em tecnologia e de me conhecer melhor a cada passo.</p>
 <br>
 
-###Estudando no momento: 
+<h3 align="left">Estudando no momento:</h3>
 
-Curso: Análise e Desenvolvimento de Sistemas - Faculdade (2º Trimestre)
+**Curso:** Análise e Desenvolvimento de Sistemas - Faculdade *(2º Trimestre)*
 - Lógica de Programação;
 - Empreendedorismo e Criação de Novos Negócios;
 - Projeto de Extensão;
 
-Curso: HTML e CSS para Iniciante - Origamid;
+**Curso:** HTML e CSS para Iniciante - Origamid;
 <br><br>
 ###
 
