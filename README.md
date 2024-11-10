@@ -13,7 +13,7 @@ Estudando no momento:
 - HTML e CSS para Iniciante - Origamid;
 - Lógica de Programação - Faculdade - 2º Trimestre;
 - Empreendedorismo e Criação de Novos Negócios - Faculdade - 2º Trimestre;
-
+<br><br>
 ###
 
 <h2 align="left">💻 Hard Skills</h2>
