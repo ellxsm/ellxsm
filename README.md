@@ -1,15 +1,9 @@
 <h1 align="left">💫 Olá, sou a Ellis!</h1>
 
-### 
-
 <h3 align="left">Bem vindo ao meu perfil GitHub 👋</h3>
-
-###
-
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novas oportunidades de aprendizado, participando de cursos e bootcamps para me aprimorar. Vejo cada projeto como uma chance de expandir meu conhecimento em tecnologia e de me conhecer melhor a cada passo.</p>
 
 <h3 align="left">Estudando no momento:</h3>
-
 **Curso:** Análise e Desenvolvimento de Sistemas - Faculdade *(2º Trimestre)*
 - Lógica de Programação;
 - Empreendedorismo e Criação de Novos Negócios;
@@ -24,13 +18,9 @@
 - Ferramentas;
 - Mais HTML e CSS (Formulários, Outros seletores, etc.);
 - JavaScript Básico;
-- Produção (Hospedagem, Servidor, etc.);
-<br><br>
+- Produção (Hospedagem, Servidor, etc.);<br>
 
 <h2 align="left">💻 Hard Skills</h2>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -67,29 +57,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-###
+</div><br>
 
 <h2 align="left">📌 Soft Skills</h2>
-
-###
-
-<p align="left">Tenho uma boa comunicação, que me ajuda a entender e me fazer entender. Sou adaptável, o que me permite lidar bem com novos desafios, e utilizo minha criatividade para encontrar soluções. Valorizo o trabalho em equipe e a cooperação, sempre buscando colaborar para alcançar resultados positivos juntos. 🤗</p>
-<br>
+<p align="left">Tenho uma boa comunicação, que me ajuda a entender e me fazer entender. Sou adaptável, o que me permite lidar bem com novos desafios, e utilizo minha criatividade para encontrar soluções. Valorizo o trabalho em equipe e a cooperação, sempre buscando colaborar para alcançar resultados positivos juntos. 🤗</p><br>
 
 <h2 align="left">🌐 Quem eu sou fora do código?</h2>
-
-###
-
-<p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Avanti, Palestra! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Fora isso, curto assistir filmes e séries.</p>
-
-<br>
+<p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Avanti, Palestra! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Fora isso, curto assistir filmes e séries.</p><br>
 
 <h2 align="left">📫 Vamos Conversar?</h2>
-
-###
-
 <p align="left">- <b>LinkedIn:</b> https://www.linkedin.com/in/ellisoliveira/<br>- <b>E-mail:</b> ellis.oliveirab@gmail.com</p>
-
-###
