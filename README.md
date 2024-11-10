@@ -7,7 +7,6 @@
 ###
 
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novas oportunidades de aprendizado, participando de cursos e bootcamps para me aprimorar. Vejo cada projeto como uma chance de expandir meu conhecimento em tecnologia e de me conhecer melhor a cada passo.</p>
-<br>
 
 <h3 align="left">Estudando no momento:</h3>
 
