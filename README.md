@@ -3,24 +3,6 @@
 <h3 align="left">Bem vindo ao meu perfil GitHub 👋</h3>
 <p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre em busca de novas oportunidades de aprendizado, participando de cursos e bootcamps para me aprimorar. Vejo cada projeto como uma chance de expandir meu conhecimento em tecnologia e de me conhecer melhor a cada passo.</p>
 
-<h3 align="left">Estudando no momento:</h3>
-
-**Curso:** Análise e Desenvolvimento de Sistemas - Faculdade *(2º Trimestre)*
-- Lógica de Programação;
-- Empreendedorismo e Criação de Novos Negócios;
-- Projeto de Extensão;
-
-**Curso:** HTML e CSS para Iniciante - Origamid;
-- HTML e CSS Básico;
-- CSS Posicionamento;
-- HTML e Semântica;
-- CSS Propriedades;
-- Responsivo;
-- Ferramentas;
-- Mais HTML e CSS (Formulários, Outros seletores, etc.);
-- JavaScript Básico;
-- Produção (Hospedagem, Servidor, etc.);<br><br>
-
 <h2 align="left">💻 Hard Skills</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
