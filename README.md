@@ -45,8 +45,5 @@
 <h2 align="left">📌 Soft Skills</h2>
 <p align="left">Tenho uma boa comunicação, que me ajuda a entender e me fazer entender. Sou adaptável, o que me permite lidar bem com novos desafios, e utilizo minha criatividade para encontrar soluções. Valorizo o trabalho em equipe e a cooperação, sempre buscando colaborar para alcançar resultados positivos juntos. 🤗</p><br>
 
-<h2 align="left">🌐 Quem eu sou fora do código?</h2>
-<p align="left">Quando não estou codando, adoro estar com as pessoas que amo, assistir aos jogos de futebol (Avanti, Palestra! 💚) e estudar sobre psicologia comportamental. Sou apaixonada por música e estou sempre buscando músicas novas de diferentes estilos. Fora isso, curto assistir filmes e séries.</p><br>
-
 <h2 align="left">📫 Vamos Conversar?</h2>
 <p align="left">- <b>LinkedIn:</b> https://www.linkedin.com/in/ellisoliveira/<br>- <b>E-mail:</b> ellis.oliveirab@gmail.com</p>
